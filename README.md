@@ -46,4 +46,7 @@ It would be nice if it were possible to:
 - We think it is suitable to develop this using both a frontend and backend.
 - Please document  in a Read me how we can run it.
 
+Don’t hesitate to contact us concerning the assignment. The code should be delivered to us
+as a zip file or via git read permissions.
+
 Good luck!
