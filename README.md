@@ -29,12 +29,14 @@ It would be nice if it were possible to:
 - Sort by, for example, Amount and Date
 - Attach a receipt (image) along with an expense
 
+## Timeframe
+
+- A reasonable timeframe should be 4 hours. Please do not spend more time than that.
+
 ## Additional Notes
 
 - It would be good if you could include some unit tests, but it's not a requirement.
-- The most important thing is not to finish everything but to make an honest attempt and not spend too much time on the task. A reasonable timeframe should be 4 hours.
+- The most important thing is not to finish everything but to make an honest attempt and not spend too much time on the task.
 - We value clean and testable code.
 - Use whatever tech stack you want.
-- We think it is suitable to develop this using a frontend and backend.
-
----
+- We think it is suitable to develop this using both a frontend and backend.
