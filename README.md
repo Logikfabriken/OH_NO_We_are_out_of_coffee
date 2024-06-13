@@ -4,6 +4,8 @@
 
 The idea is that you have free rein to develop an app for managing expenses. Imagine the coffee runs out at the office, so you run out and buy it. Then, of course, you want to get reimbursed through your salary, and you need to make an expense report for that.
 
+
+
 ## Requirements
 
 An expense should consist of at least:
@@ -33,6 +35,7 @@ It would be nice if it were possible to:
 ## Timeframe
 
 - A reasonable timeframe should be 4 hours. Please do not spend more time than that.
+- Feel free to spend more time on the assignment if you like to.
 
 ## Additional Notes
 
@@ -41,3 +44,6 @@ It would be nice if it were possible to:
 - We value clean and testable code.
 - Use whatever tech stack you want.
 - We think it is suitable to develop this using both a frontend and backend.
+- Please document  in a Read me how we can run it.
+
+Good luck!
