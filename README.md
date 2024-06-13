@@ -34,7 +34,7 @@ It would be nice if it were possible to:
 
 ## Timeframe
 
-- A reasonable timeframe should be 4 hours. Please do not spend more time than that.
+- A reasonable timeframe should be 4 hours. 
 - Feel free to spend more time on the assignment if you like to.
 
 ## Additional Notes
