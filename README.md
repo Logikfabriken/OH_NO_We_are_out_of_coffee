@@ -24,7 +24,7 @@ It would be nice if it were possible to:
 - Add new expenses
 - Delete expenses
 - Change the state of expenses: `InProgress`, `ReadyForApproval`, `Approved`
-- Use the file `expenses_data.txt` as a data source for the backend: https://github.com/Logikfabriken/OH_NO_We_are_out_of_coffee/blob/main/expenses_data.txt
+- Use the file `expenses_data.json` as a data source for the backend: https://github.com/Logikfabriken/OH_NO_We_are_out_of_coffee/blob/main/expenses_data.json
 
 ## Stretch Goals
 
