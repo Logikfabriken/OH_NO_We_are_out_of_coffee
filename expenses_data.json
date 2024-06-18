@@ -1,4 +1,4 @@
-expenses_data = [
+ [
     {
         "Username": "alice",
         "Description": "Office coffee purchase",
