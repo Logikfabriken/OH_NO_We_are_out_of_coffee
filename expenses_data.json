@@ -1,62 +1,62 @@
- [
+[
     {
-        "Username": "alice",
-        "Description": "Office coffee purchase",
-        "Amount": 25.50,
-        "Date": "2024-06-01"
+        "username": "alice",
+        "description": "Office coffee purchase",
+        "amount": 25.50,
+        "date": "2024-06-01"
     },
     {
-        "Username": "bob",
-        "Description": "Office supplies",
-        "Amount": 40.00,
-        "Date": "2024-06-02"
+        "username": "bob",
+        "description": "Office supplies",
+        "amount": 40.00,
+        "date": "2024-06-02"
     },
     {
-        "Username": "charlie",
-        "Description": "Client lunch",
-        "Amount": 78.90,
-        "Date": "2024-06-03"
+        "username": "charlie",
+        "description": "Client lunch",
+        "amount": 78.90,
+        "date": "2024-06-03"
     },
     {
-        "Username": "diana",
-        "Description": "Travel expenses",
-        "Amount": 120.00,
-        "Date": "2024-06-04"
+        "username": "diana",
+        "description": "Travel expenses",
+        "amount": 120.00,
+        "date": "2024-06-04"
     },
     {
-        "Username": "edward",
-        "Description": "Conference ticket",
-        "Amount": 300.00,
-        "Date": "2024-06-05"
+        "username": "edward",
+        "description": "Conference ticket",
+        "amount": 300.00,
+        "date": "2024-06-05"
     },
     {
-        "Username": "fiona",
-        "Description": "Team building activity",
-        "Amount": 150.00,
-        "Date": "2024-06-06"
+        "username": "fiona",
+        "description": "Team building activity",
+        "amount": 150.00,
+        "date": "2024-06-06"
     },
     {
-        "Username": "george",
-        "Description": "Software subscription",
-        "Amount": 50.00,
-        "Date": "2024-06-07"
+        "username": "george",
+        "description": "Software subscription",
+        "amount": 50.00,
+        "date": "2024-06-07"
     },
     {
-        "Username": "hannah",
-        "Description": "Internet bill",
-        "Amount": 60.00,
-        "Date": "2024-06-08"
+        "username": "hannah",
+        "description": "Internet bill",
+        "amount": 60.00,
+        "date": "2024-06-08"
     },
     {
-        "Username": "ian",
-        "Description": "Office snacks",
-        "Amount": 35.00,
-        "Date": "2024-06-09"
+        "username": "ian",
+        "description": "Office snacks",
+        "amount": 35.00,
+        "date": "2024-06-09"
     },
     {
-        "Username": "julia",
-        "Description": "Printer ink",
-        "Amount": 45.00,
-        "Date": "2024-06-10"
+        "username": "julia",
+        "description": "Printer ink",
+        "amount": 45.00,
+        "date": "2024-06-10"
     }
 ]
